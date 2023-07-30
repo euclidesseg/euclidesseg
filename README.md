@@ -7,13 +7,13 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width = 300px height = 200px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :school: I am a `software development technician` at [CESDE](https://www.cesde.edu.co/)
+- :trophy: Finalized in `June-2023`
+- :technologist: **Currently working on** `Frontend Development` **&** `Backend Developer`
+- :boom: You can visit [MY WEBSITE](https://dashboard-eight-taupe.vercel.app/briefcase) for some frontend knowledge
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Euclides&amp;color=EA4335&amp;style=flat-square)](mailto:euclides2696@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
@@ -39,6 +39,37 @@
     }
   }
 ```
+
+<br>
+<br>
+<br>
+
+## 🛠️ Known Technologies
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cs" />
+  </a>
+</p>
+<br>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Framewoks & Tools
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,dotnet,react,git,postman" />
+  </a>
+</p>
+
+<br>
+
+### <picture> <img src = "https://www.connecting-software.com/wp-content/uploads/2018/04/dynamics365-ce-animated-2.gif" width = 20px>  </picture> DataBases
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  </a>
+</p>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
@@ -81,9 +112,6 @@
 <!--profile visit count-->
 
 <div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
