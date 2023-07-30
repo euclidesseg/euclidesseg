@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Euclides <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Animated-Flag-Colombia.gif"></h1>
 <p align="center">
-<a href="www.linkedin.com/in/e-perez-in" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@euclides"/></a>
+<a href="https://linkedin.com/in/e-perez-in/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@euclides"/></a>
 <a href="https://dashboard-eight-taupe.vercel.app/briefcase" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="@euclides"  /></a>
 <a href = "mailto:eucldes2696.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@euclides"  /></a>
 <!--About Me-->
