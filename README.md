@@ -24,21 +24,27 @@
 <br>
 
 ```TypeScript
- private _darkModeIsSelect = new BehaviorSubject<boolean>(false);
-  darkModeIsSelect :Observable<boolean> =  this._darkModeIsSelect.asObservable()
+ constructor(@Inject(DOCUMENT) private document: Document) {
+    const modeSelected = localStorage.getItem('modeSelected');
+    if (modeSelected) {
+      const mode: Mode = JSON.parse(modeSelected);
+      this._darkModeIsSelect.next(mode);
+      this.setDarkModeClass(mode.mode === 'dark'); // coparo si es verdadero para llamar el metodo
+    }
+  }
 
-  constructor( @Inject(DOCUMENT) private document: Document) { }
+  selecDarkMode(mode: string) {
+    const isDark = mode === 'dark';
+    this.setDarkModeClass(isDark);
+    this._darkModeIsSelect.next({ mode });
+    localStorage.setItem('modeSelected', JSON.stringify(this._darkModeIsSelect.value));
+  }
 
-   selecDarkMode(): { isActive: boolean, modeText: string } {
-    const isActive = !this._darkModeIsSelect.value;
-    if (isActive) {
+  private setDarkModeClass(isDark: boolean) {
+    if (isDark) {
       this.document.body.classList.add('vela__blue');
-      this._darkModeIsSelect.next(true);
-      return { isActive: true, modeText: 'Light' };
     } else {
       this.document.body.classList.remove('vela__blue');
-      this._darkModeIsSelect.next(false);
-      return { isActive: false, modeText: 'Dark' };
     }
   }
 ```
