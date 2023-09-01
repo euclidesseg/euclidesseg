@@ -29,7 +29,7 @@
     if (modeSelected) {
       const mode: Mode = JSON.parse(modeSelected);
       this._darkModeIsSelect.next(mode);
-      this.setDarkModeClass(mode.mode === 'dark'); // coparo si es verdadero para llamar el metodo
+      this.setDarkModeClass(mode.mode === 'dark'); 
     }
   }
 
