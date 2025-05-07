@@ -81,7 +81,7 @@
 
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Oters
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Others
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
