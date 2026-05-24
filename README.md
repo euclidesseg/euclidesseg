@@ -66,7 +66,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Frameworks & Tools
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,dotnet,react,git,postman" />
+    <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,dotnet,git,postman" />
   </a>
 </p>
 
