@@ -15,7 +15,7 @@
 - :school: I am a `software development technician` at [CESDE](https://www.cesde.edu.co/)
 - :trophy: Finalized in `June-2023`
 - :technologist: **Currently working on** `Frontend Development` **&** `Backend Developer`
-- :boom: You can visit [MY WEBSITE](https://dashboard-eight-taupe.vercel.app/briefcase) for some frontend knowledge
+- :boom: You can visit [MY WEBSITE](https://euclides-dev.netlify.app/euclides/articles) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Euclides&amp;color=EA4335&amp;style=flat-square)](mailto:euclides2696@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
